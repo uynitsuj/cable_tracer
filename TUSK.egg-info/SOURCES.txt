@@ -1,0 +1,7 @@
+README.md
+setup.py
+TUSK.egg-info/PKG-INFO
+TUSK.egg-info/SOURCES.txt
+TUSK.egg-info/dependency_links.txt
+TUSK.egg-info/requires.txt
+TUSK.egg-info/top_level.txt

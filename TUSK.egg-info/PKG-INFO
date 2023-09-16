@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: TUSK
+Version: 1.0.0
+Summary: Code for TUSK: Tracing to Untangling Semi-Planar Knots. More information found here: https://sites.google.com/view/tusk-rss/home
+Home-page: https://github.com/vainaviv/tusk.git
+Author: Vainavi Viswanath, Kaushik Shivakumar
+Author-email: vainaviv@berkeley.edu, kaushiks@berkeley.edu
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.9
+
+UNKNOWN
+
